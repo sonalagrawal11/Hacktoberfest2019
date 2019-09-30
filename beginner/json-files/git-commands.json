@@ -14,5 +14,9 @@
   {
     "title": "git log",
     "description": "The git commit command provides a log of changes made throughout time."
+  },
+  {
+    "title": "git clone",
+    "description": "This command is used to obtain a repository from an existing URL."
   }
 ]
